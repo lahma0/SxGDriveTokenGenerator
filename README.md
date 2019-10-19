@@ -6,6 +6,12 @@ This Python script/app is used to simplify the process of creating an OAuth toke
 
 Note: I suspect other variants of Tinfoil will shortly add authenticated Google Drive support (if they don't already). It is very likely that the setup process will be nearly identical if that happens, but I will update this info if I learn of any developments in this regard.
 
+## Links
+
+<img src="http://gbatemp.net/favicon.ico"> [Forum Thread for Project on GBAtemp.net](https://gbatemp.net/threads/gdrive-token-generator-for-sx-installer-authenticated-google-drive-support.550333/)
+
+
+<img src="https://team-xecuter.com/favicon.ico"> [Forum Thread for Project on Team-Xecuter.com](https://team-xecuter.com/community/threads/gdrive-token-generator-for-sx-installer-authenticated-google-drive-support.132583/)
 
 ## Requirements
 
