@@ -31,7 +31,7 @@ Note: I suspect other variants of Tinfoil will shortly add authenticated Google 
 
 Before adding an authenticated Google Drive folder to SX Installer, you will first need to generate your OAuth credentials/token files and transfer them to your Switch Micro SD.
 
-* Download and extract the latest version of the Python script or EXE version from [SxGDriveTokenGenerator Releases](https://github.com/lahma69/SxGDriveTokenGenerator/releases)
+* Download and extract the latest version of the Python script or EXE version from [SxGDriveTokenGenerator Releases](https://github.com/lahma0/SxGDriveTokenGenerator/releases)
 * Ensure you are logged into the relevant Google Drive account and navigate to https://developers.google.com/drive/api/v3/quickstart/python
 * Complete **Step 1**, clicking the **Download Client Configuration** button when it appears, and save the **credentials.json** file to the same directory you extracted the app package to
 * Run the Python script or EXE (depending on which you downloaded)
